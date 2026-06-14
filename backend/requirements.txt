@@ -1,0 +1,10 @@
+# backend/requirements.txt
+transformer-lens
+torch
+flask
+flask-cors
+scikit-learn
+numpy
+pandas
+matplotlib
+plotly
